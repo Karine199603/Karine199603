@@ -22,7 +22,7 @@ I focus on improving product quality and optimizing testing workflows — for ex
 ## 📂 Personal
 🐍 [Python/AQA Practice](https://github.com/Karine199603/python_files)  
 🎨 [Personal Website](https://karineminasian.tilda.ws)  
-⭐ [QA documentation on Google Drive](https://drive.google.com/drive/folders/1jQDofWuh08v0RpGPey74-q741Kkjcj7e)
+⭐ [QA documentation on Google Drive](https://drive.google.com/drive/folders/1jQDofWuh08v0RpGPey74-q741Kkjcj7e)  
 📄 [CV on Google Drive](https://drive.google.com/file/d/19nefvCOzMPtuL-3baPf5tM0yEjprCFXL)
 
 ## 🌍 Languages
