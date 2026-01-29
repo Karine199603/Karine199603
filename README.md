@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Karine Minasian
 
-🎮 QA Engineer with 1.3+ years of experience in GameDev (and a bit in web)
+🎮 QA Engineer with 1.3+ years of experience in GameDev (and a bit in web)  
 📍 Novi Sad, Serbia | 🌍 Open to relocation  
 🐍 Currently learning and practicing AQA (Python)
 
