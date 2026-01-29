@@ -5,19 +5,18 @@
 🐍 Currently learning and practicing AQA (Python)
 
 ## 👩‍💻 About Me
-Manual QA Engineer with experience testing **mobile games and apps on Android and iOS**, as well as **web applications**.  
-Strong background in **manual testing**, building **QA processes from scratch**, and creating **test documentation** in Agile environments
-
-I focus on improving product quality and optimizing testing workflows — for example, I reduced a regression testing cycle by **44%** using smart spreadsheets and formulas
+Manual QA Engineer with experience testing mobile games and apps on Android and iOS, as well as web applications.  
+Strong background in manual testing, building QA processes from scratch and UX/UI.  
+I focus on improving product quality and optimizing testing workflows
 
 ## 🛠 Tech Stack & Skills
-- **Testing:** Functional, Regression, Smoke, Sanity, Exploratory, Compatibility, Localization  
-- **Platforms:** Android, iOS, Web  
-- **Tools:** Jira, Git, GitHub, TeamCity, Fork, Android Studio, LDPlayer  
-- **Tech:** Python, HTML, CSS, JSON, RegExp, DevTools  
-- **Game Engines:** Unity, Godot  
-- **Design:** Figma, Miro  
-- **Other:** QA docs, Agile, AI tools
+- Testing: Functional, Regression, Smoke, Sanity, Exploratory, Compatibility, Localization  
+- Platforms: Android, iOS, Web  
+- Tools: Jira, Git, GitHub, TeamCity, Fork, Android Studio, LDPlayer  
+- Tech: Python, HTML, CSS, JSON, RegExp, DevTools  
+- Game Engines: Unity, Godot  
+- Design: Figma, Miro  
+- Other: QA docs, Agile, AI tools
 
 ## 📂 Personal
 🐍 [Python/AQA Practice](https://github.com/Karine199603/python_files)  
@@ -31,6 +30,6 @@ I focus on improving product quality and optimizing testing workflows — for ex
 - German — Fluent (B2)
 
 ## 📫 Contact
-- 📧 Email: **karineminasyan199603@gmail.com**  
+- 📧 Email: karineminasyan199603@gmail.com  
 - 💬 [Telegram](https://t.me/Kari199603)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/karine-minasian199603)
