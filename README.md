@@ -25,11 +25,11 @@ I focus on improving product quality and optimizing testing workflows
 📄 [CV on Google Drive](https://drive.google.com/file/d/19nefvCOzMPtuL-3baPf5tM0yEjprCFXL)
 
 ## 🌍 Languages
-- Russian — Native (C2)  
-- English — Intermediate (B1)  
-- German — Fluent (B2)
+[RU] — Native  
+[EN] — Intermediate, B1  
+[DE] — Fluent, B2
 
 ## 📫 Contact
-- 📧 Email: karineminasyan199603@gmail.com  
-- 💬 [Telegram](https://t.me/Kari199603)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/karine-minasian199603)
+📧 Email: karineminasyan199603@gmail.com  
+💬 [Telegram](https://t.me/Kari199603)
+🔗 [LinkedIn](https://www.linkedin.com/in/karine-minasian199603)
