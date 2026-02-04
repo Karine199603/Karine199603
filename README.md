@@ -13,7 +13,7 @@ I focus on improving product quality and optimizing testing workflows
 - Testing: Functional, Regression, Smoke, Sanity, Exploratory, Compatibility, Localization  
 - Platforms: Android, iOS, Web  
 - Tools: Jira, Git, GitHub, TeamCity, Fork, Android Studio, LDPlayer  
-- Tech: Python, HTML, CSS, JSON, RegExp, DevTools  
+- Tech: Python, HTML, CSS, SQL, JSON, DevTools  
 - Game Engines: Unity, Godot  
 - Design: Figma, Miro  
 - Other: QA docs, Agile, AI tools
