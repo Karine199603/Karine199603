@@ -27,7 +27,7 @@ I focus on improving product quality and optimizing testing workflows
 ## 🌍 Languages
 [RU] — Native  
 [EN] — Intermediate, B1  
-[DE] — Fluent, B2
+[DE] — Upper-Intermediate, B2
 
 ## 📫 Contact
 📧 Email: karineminasyan199603@gmail.com  
