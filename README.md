@@ -10,7 +10,7 @@ Strong background in manual testing, building QA processes from scratch and UX/U
 I focus on improving product quality and optimizing testing workflows
 
 ## 🛠 Tech Stack & Skills
-- Testing: Functional, Regression, Smoke, Sanity, Exploratory, Compatibility, Localization  
+- Testing: Functional, Regression, Smoke, Exploratory, Compatibility, Localization  
 - Platforms: Android, iOS, Web  
 - Tools: Jira, Git, GitHub, TeamCity, Fork, Android Studio, LDPlayer  
 - Tech: Python, HTML, CSS, SQL, JSON, DevTools  
