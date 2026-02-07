@@ -31,5 +31,5 @@ I focus on improving product quality and optimizing testing workflows
 
 ## 📫 Contact
 📧 Email: karineminasyan199603@gmail.com  
-💬 [Telegram](https://t.me/Kari199603)
+💬 [Telegram](https://t.me/Kari199603)  
 🔗 [LinkedIn](https://www.linkedin.com/in/karine-minasian199603)
