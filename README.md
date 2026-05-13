@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Karine Minasian
 
-🐛 QA Engineer (On my way to becoming a Full Stack QA 🪄) with 1.3+ years of experience in GameDev (and a bit in web)  
+🐛 QA Engineer (On my way to becoming a Full Stack QA 🪄) with 1+ years of experience in GameDev (and a bit in web)  
 📍 Novi Sad, Serbia | 🌍 Open to relocation  
-🐍 Currently learning and practicing AQA (Python)
+🐍 Currently learning and practicing AQA (JavaScript)
 
 ## 👩‍💻 About Me
 Manual QA Engineer with experience testing mobile games and apps on Android and iOS, as well as web applications.  
